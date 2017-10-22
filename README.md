@@ -1,2 +1,2 @@
 # my-new-repo
-- person b is making a change!
+- person a and b are making a change on same lines of code!
